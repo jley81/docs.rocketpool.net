@@ -1,5 +1,5 @@
 ---
-home: false
+home: https://jleyendeckeratx.ethereum.beaconscan.com
 heroImage: /images/logo.png
 tagline: Decentralised & Trustless ETH2 Staking Protocol
 actionText: Get Started →
